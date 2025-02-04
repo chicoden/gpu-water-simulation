@@ -15,5 +15,5 @@ rendering, but we'll see.
 
 # Resources
 - [Polygonising a scalar field](http://www.paulbourke.net/geometry/polygonise/)
-- [17 - How to write an Eulerian fluid simulator with 200 lines of code.](https://www.youtu.be/iKAVRgIrUOU)
+- [17 - How to write an Eulerian fluid simulator with 200 lines of code.](https://youtu.be/iKAVRgIrUOU)
 - [WebGPU Fundamentals](https://webgpufundamentals.org/)
